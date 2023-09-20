@@ -14,6 +14,7 @@ exports.registration = async (req, res) => {
             console.log(cLoc); 
 
             const countryCode = cLoc.country;
+            
             console.log(countryCode);
 
          
